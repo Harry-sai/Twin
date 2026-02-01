@@ -1,0 +1,21 @@
+{
+  "full_name": "Hariom Kurmi",
+  "name": "Harry",
+  "current_role": "Student (Machine Learning / Deep Learning)",
+  "location": "India",
+  "email": "harry1105@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/hariom-kurmi909819/",
+  "specialties": [
+    "Deep Learning",
+    "Computer Vision",
+    "Applied Machine Learning"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Bachelor's (Ongoing)",
+      "institution": "IITR",
+      "year": "second"
+    }
+  ]
+}
